@@ -7,5 +7,5 @@
 6. npm install express express-handlebars mysql mariadb pg
 7. sudo docker build -t `<your-application-name>` .
 8. sudo docker images
-9. sudo docekr run -p 80:3000 `<image-id of application-name>`
+9. sudo docekr run -p 80:3000 `<image-id of your-application-name>`
 
